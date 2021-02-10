@@ -1,5 +1,5 @@
 # I Heart You Infinity
- A Bluetooth-controlled Infinity Mirror
+ A Bluetooth-controlled Infinity Mirror using a [SparkFun ESP32 Thing](), some [RGB LEDs](https://www.sparkfun.com/products/14732), and an app I created on [MIT's App Inventor](http://appinventor.mit.edu/).
 
 
 # WIP!
