@@ -2,9 +2,6 @@
  A Bluetooth-controlled Infinity Mirror using a [SparkFun ESP32 Thing](), some [RGB LEDs](https://www.sparkfun.com/products/14732), and a simple app created using [MIT's App Inventor](http://appinventor.mit.edu/).
 
 
-# WIP!
-
-This repo will be completed soon. Stop by at the end of the day!
 
 ![Infinity Heart](https://github.com/ThingsRobMade/I-Heart-You-Infinity/blob/main/Images/InfinityHeartChaseTiny.gif)
 
